@@ -3,16 +3,9 @@
 4th year software engineering student at Western University.  
 All project available at [my personal website](#https://conordoran.com)
 
----
-
 ## 🌐 Socials:
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/conormdoran/)
-
----
-
-## 💻 Tech Stack:
-
  
 ## 💻 Tech Stack:
 
