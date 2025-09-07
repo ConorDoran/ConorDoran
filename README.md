@@ -1,4 +1,4 @@
-##  Conor Doran:
+## 🚀 About:
 
 4th year software engineering student at Western University.  
 Projects available at [my personal website](#https://conordoran.com)
