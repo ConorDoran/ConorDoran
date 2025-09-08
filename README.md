@@ -7,7 +7,7 @@ Projects available at [my personal website](#https://conordoran.com)
 
 Create music and learn piano with [KeyCraft](https://www.keycraft.org/). A DAW I made for piano players. 
 
-## 🌎 Worldboard | Historical, political, and economic data.
+## 🌎 Worldboard | Data for economics, history, and political analysis
 
 Understand the trends of history with [Worldboard](https://). A platform I made for global analytics and data collection. 
 
