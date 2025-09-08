@@ -7,7 +7,7 @@ Projects available at [my personal website](#https://conordoran.com)
 
 Create music and learn piano with [KeyCraft](https://www.keycraft.org/). It is a DAW I made for piano players. 
 
-## 📱 Social:
+## 🌐 Contact:
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/conormdoran/)
  
