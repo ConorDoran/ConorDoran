@@ -5,7 +5,7 @@ Projects available at [my personal website](#https://conordoran.com)
 
 ## 🎹 KeyCraft | Piano Roll Editor
 
-Create music and learn piano with [KeyCraft](https://www.keycraft.org/) — a DAW I made for piano players. 
+Create music and learn piano with [KeyCraft](https://www.keycraft.org/). It is a DAW I made for piano players. 
 
 ## 🌐 Socials:
 
