@@ -3,6 +3,10 @@
 4th year software engineering student at Western University.  
 Projects available at [my personal website](#https://conordoran.com)
 
+## 🎹 KeyCraft | Piano Roll Editor
+
+Create music and learn piano with [KeyCraft](#https://www.keycraft.org/) a DAW I made for piano players. 
+
 ## 🌐 Socials:
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/conormdoran/)
