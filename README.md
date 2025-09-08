@@ -5,7 +5,11 @@ Projects available at [my personal website](#https://conordoran.com)
 
 ## 🎹 KeyCraft | Piano Roll Editor
 
-Create music and learn piano with [KeyCraft](https://www.keycraft.org/). It is a DAW I made for piano players. 
+Create music and learn piano with [KeyCraft](https://www.keycraft.org/). A DAW I made for piano players. 
+
+## 🌎 Worldboard | Historical, economic and political data.
+
+Understand the trends of history with [Worldboard](https://). A platform I made for global analytics and data collection. 
 
 ## 🌐 Contact:
 
