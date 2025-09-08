@@ -11,7 +11,7 @@ Create music and learn piano with [KeyCraft](https://www.keycraft.org/). A DAW I
 
 Understand the trends of history with [Worldboard](https://). A platform I made for global analytics and data collection. 
 
-## 🌐 Contact:
+## 📞 Contact:
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/conormdoran/)
  
