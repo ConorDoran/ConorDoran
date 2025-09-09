@@ -9,7 +9,7 @@ Create music and learn piano with [KeyCraft](https://www.keycraft.org/). A DAW I
 
 ## 🌎 Worldboard | Data for economics, history, and political analysis
 
-Understand the trends of history with [Worldboard](https://). A platform I made for global analytics and data collection. 
+Understand the trends of history with [Worldboard](https://). A platform I started for global analytics and data collection. 
 
 ## 📞 Contact:
 
