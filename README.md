@@ -1,7 +1,7 @@
 ## 🚀 About:
 
 4th year software engineering student at Western University.  
-Projects available at [my personal website](#https://conordoran.com)
+Projects available at [my personal website.](#https://www.conordoran.com)
 
 ## 🎹 KeyCraft | Piano Roll Editor
 
